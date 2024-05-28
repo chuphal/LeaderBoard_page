@@ -1,0 +1,102 @@
+[
+  {
+    "rank": "1",
+    "name": "Selling with re entry",
+    "calmar_ratio": "3.96",
+    "overall_profit": "381845",
+    "avg_daily_profit": "319.54",
+    "win": "0.65",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "2",
+    "name": "Strategy_name",
+    "calmar_ratio": "3.62",
+    "overall_profit": "268872",
+    "avg_daily_profit": "216.31",
+    "win": "0.64",
+    "price": "500",
+    "action": "Buy"
+  },
+  {
+    "rank": "3",
+    "name": "Based on premium and",
+    "calmar_ratio": "3.42",
+    "overall_profit": "255425",
+    "avg_daily_profit": "208.51",
+    "win": "0.64",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "4",
+    "name": "strategy_name",
+    "calmar_ratio": "3.22",
+    "overall_profit": "370845",
+    "avg_daily_profit": "303.47",
+    "win": "0.65",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "5",
+    "name": "strategy_name",
+    "calmar_ratio": "3.22",
+    "overall_profit": "370845",
+    "avg_daily_profit": "303.47",
+    "win": "0.65",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "6",
+    "name": "Based on premium wit",
+    "calmar_ratio": "3.01",
+    "overall_profit": "135980",
+    "avg_daily_profit": "185.77",
+    "win": "0.49",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "7",
+    "name": "strategy_name",
+    "calmar_ratio": "2.76",
+    "overall_profit": "267867.5",
+    "avg_daily_profit": "218.49",
+    "win": "0.6",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "8",
+    "name": "Wait and trade_Save",
+    "calmar_ratio": "2.62",
+    "overall_profit": "178252.5",
+    "avg_daily_profit": "161.9",
+    "win": "0.63",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "9",
+    "name": "iron condor",
+    "calmar_ratio": "2.44",
+    "overall_profit": "176420",
+    "avg_daily_profit": "137.51",
+    "win": "0.65",
+    "price": "-",
+    "action": "view"
+  },
+  {
+    "rank": "10",
+    "name": "strategy_name",
+    "calmar_ratio": "2.04",
+    "overall_profit": "244555",
+    "avg_daily_profit": "198.66",
+    "win": "0.62",
+    "price": "-",
+    "action": "view"
+  }
+]
