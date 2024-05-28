@@ -14,8 +14,8 @@ const Navbar = () => {
         <div className="container-nav">
           <a className="navbar-brand" href="/LeaderBoard">
             <img
-              src="src\assets\media\unfluke.png"
-              alt=""
+              src="src/assets/media/unfluke.png"
+              alt="unfluke-icon"
               style={{ width: "120px" }}
             />
           </a>
@@ -30,7 +30,7 @@ const Navbar = () => {
                   aria-expanded="false"
                 >
                   <img
-                    src="src\assets\media\notification.png"
+                    src="src/assets/media/notification.png"
                     alt="notifications"
                     className="img-fluid"
                     style={{ height: "25px" }}
@@ -58,7 +58,7 @@ const Navbar = () => {
                   {" "}
                   <div>
                     <img
-                      src="src\assets\media\coin.9bfaef7e.jpeg"
+                      src="src/assets/media/coin.9bfaef7e.jpeg"
                       alt="coin"
                       className="img-fluid mt-1"
                       style={{ height: "25px" }}
@@ -85,7 +85,7 @@ const Navbar = () => {
                   fdprocessedid="53m4yo"
                 >
                   <img
-                    src="src\assets\media\monkey.5456259d.jpg"
+                    src="src/assets/media/monkey.5456259d.jpg"
                     alt="user"
                     className="img-fluid"
                     style={{
